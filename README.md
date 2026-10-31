@@ -1,8 +1,6 @@
 # CERN-Dimuon-Resonance-Analysis
 Reconstruction and analysis of dimuon invariant mass spectra using CERN Open Data and Python.
 
-# CERN Dimuon Resonance Analysis
-
 ## About the Project
 
 I have always been interested in understanding how particle physics experiments help us study the fundamental particles of nature. Since my academic background is in Physics and I am currently pursuing a Master's in Data Science, I wanted to work on a project that combines both fields.
